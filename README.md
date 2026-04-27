@@ -16,18 +16,20 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- React.js, Vite
-- HTML, CSS, JavaScript
+- React.js, Next.js, Vite  
+- HTML, CSS, JavaScript  
+- Bootstrap, Tailwind CSS  
 
 **Backend:**
-- Node.js, Express.js
+- Node.js, Express.js  
+- Python (Basic/Utility Scripts)  
 
 **Database:**
-- MongoDB
+- MongoDB, MySQL  
 
 **DevOps & Tools:**
-- Nginx, VPS Hosting
-- PM2, SSL (HTTPS)
+- Nginx, VPS Hosting  
+- PM2, SSL (HTTPS)  
 - Git, GitHub, Postman
 
 ---
