@@ -1,10 +1,42 @@
-- 👋 Hi, I’m Saroj Kumar Mallik
-- 👀 I’m interested in Web-Application
-- 🌱 I’m currently learning Servlet and JSP
-- 💞️ I’m looking to collaborate on Internship regarding JSP 
-- 📫 How to reach me mail on sarojkumarmallik94@gmail.com
+# Hi 👋, I'm Saroj Kumar Mallik
 
-<!---
-SarojKumarMallik/SarojKumarMallik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full Stack MERN Developer with 2+ Years Experience  
+📍 Odisha, India  
+
+---
+
+## 🔥 About Me
+- 💻 2+ years of experience in building full-stack web applications
+- ⚙️ Strong expertise in MERN stack (MongoDB, Express, React, Node.js)
+- 🌐 Experience deploying applications on VPS using Nginx, PM2 & SSL
+- 📈 Focus on performance, scalability & clean architecture
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React.js, Vite
+- HTML, CSS, JavaScript
+
+**Backend:**
+- Node.js, Express.js
+
+**Database:**
+- MongoDB
+
+**DevOps & Tools:**
+- Nginx, VPS Hosting
+- PM2, SSL (HTTPS)
+- Git, GitHub, Postman
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SarojKumarMallik&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- Email: sarojkumarmallik94@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sarojkumarmallik/
